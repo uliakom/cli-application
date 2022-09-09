@@ -20,5 +20,9 @@
   "homepage": "https://github.com/uliakom/cli-application#readme",
   "devDependencies": {
     "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "commander": "^9.4.0",
+    "yargs": "^17.5.1"
   }
 }
